@@ -172,7 +172,7 @@ padding: 20px 45px 20px 20px;
 
 /* Style pour le bouton lorsqu'il est désactivé */
 .btn:disabled {
-    background-color: brown;
+    background-color:beige;
     cursor: not-allowed;
 }
 
